@@ -1,0 +1,11 @@
+#include<bits/stdc++.h>
+using namespace std;
+int  main()
+{
+    pair<int, string> p;
+
+    p = make_pair(21111116, "Mamun");
+
+    cout<<p.first<<" "<< p.second<<endl;
+return 0;
+}
